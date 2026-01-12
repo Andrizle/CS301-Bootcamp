@@ -43,12 +43,13 @@ you can add your GitHub using **"Get from VCS"**.
 
     ![img_2.png](_md_images/Sign_in_to_GitHub.png)
 
-# Configuring the Compiler
+# Configuring the Compiler (MacOS only)
 
 Next you will need to configure your compiler.
-
-* [Windows Instructions](CLion%20Compiler%20Setup%20(Windows).md)
 * [MacOS Instructions](CLion%20Compiler%20Setup%20(MacOS).md)
+
+> ### Windows Users:
+> CLion comes with a version of MinGW that works without any additional configuration.
 
 # Windows Only (Optional)
 
