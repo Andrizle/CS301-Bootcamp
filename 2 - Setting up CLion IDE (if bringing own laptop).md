@@ -43,7 +43,7 @@ you can add your GitHub using **"Get from VCS"**.
 
     ![img_2.png](_md_images/Sign_in_to_GitHub.png)
 
-# Configuring the Compiler for MacOS
+# Configuring the Compiler
 
 Next you will need to configure your compiler.
 
