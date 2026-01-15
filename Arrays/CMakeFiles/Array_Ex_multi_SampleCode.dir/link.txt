@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Array_Ex_multi_SampleCode.dir/multi_SampleCode.cpp.o -o Array_Ex_multi_SampleCode

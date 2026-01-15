@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/LinkList_Exercise_1_and_2.dir/Exercise_1_and_2_main.cpp.o -o LinkList_Exercise_1_and_2

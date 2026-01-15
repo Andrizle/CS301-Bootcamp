@@ -1,0 +1,20 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_IDE Hello World Test/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Types and Casting/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Functions/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/File Reading and Writing/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/cmake_install.cmake",
+		"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,846 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 7,
+					"id" : "Git::Git::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Git__Git-Release-e669bd086d080bbc567e.json",
+					"name" : "Git::Git",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						10,
+						11,
+						12,
+						13
+					],
+					"jsonFile" : "directory-.-Release-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						47
+					]
+				},
+				{
+					"build" : "_IDE Hello World Test",
+					"jsonFile" : "directory-_IDE Hello World Test-Release-85a963274c3fbd6011c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "_IDE Hello World Test",
+					"targetIndexes" : 
+					[
+						46
+					]
+				},
+				{
+					"build" : "cin cout getline",
+					"jsonFile" : "directory-cin cout getline-Release-9d2219d9aae2ae9c49e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cin cout getline",
+					"targetIndexes" : 
+					[
+						17,
+						48,
+						49
+					]
+				},
+				{
+					"build" : "Types and Casting",
+					"jsonFile" : "directory-Types and Casting-Release-1daa724455441b67b1cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Types and Casting",
+					"targetIndexes" : 
+					[
+						44,
+						45
+					]
+				},
+				{
+					"build" : "Strings",
+					"jsonFile" : "directory-Strings-Release-35735b7da5e2d9bb0da4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Strings",
+					"targetIndexes" : 
+					[
+						40,
+						41,
+						42,
+						43
+					]
+				},
+				{
+					"build" : "Scope",
+					"jsonFile" : "directory-Scope-Release-d84f41482ff65af51ab0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Scope",
+					"targetIndexes" : 
+					[
+						35,
+						36,
+						37,
+						38,
+						39
+					]
+				},
+				{
+					"build" : "Functions",
+					"jsonFile" : "directory-Functions-Release-d06a132ee2faebec30c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Functions",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0
+					],
+					"build" : "Arrays",
+					"childIndexes" : 
+					[
+						8
+					],
+					"jsonFile" : "directory-Arrays-Release-99be4bbcc2fc2af46494.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Arrays",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"build" : "_deps/catch2-build",
+					"childIndexes" : 
+					[
+						9
+					],
+					"jsonFile" : "directory-_deps.catch2-build-Release-a3101cd16e7e1f175e5e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 6,
+					"source" : "build/_deps/catch2-src"
+				},
+				{
+					"build" : "_deps/catch2-build/src",
+					"jsonFile" : "directory-_deps.catch2-build.src-Release-88ca675ca5048771fd74.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 6,
+					"source" : "build/_deps/catch2-src/src",
+					"targetIndexes" : 
+					[
+						18,
+						19
+					]
+				},
+				{
+					"build" : "Classes",
+					"jsonFile" : "directory-Classes-Release-30d9d0e22763f0cbb44b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "Classes",
+					"targetIndexes" : 
+					[
+						16,
+						20,
+						21
+					]
+				},
+				{
+					"build" : "File Reading and Writing",
+					"jsonFile" : "directory-File Reading and Writing-Release-ff764f07898e71dc95d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "File Reading and Writing",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "Pointers",
+					"jsonFile" : "directory-Pointers-Release-4af7ee74c9fc3124ee14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "Pointers",
+					"targetIndexes" : 
+					[
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				},
+				{
+					"build" : "Linked Lists",
+					"jsonFile" : "directory-Linked Lists-Release-a6f0cad8db6b5458dea0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "Linked Lists",
+					"targetIndexes" : 
+					[
+						24,
+						25,
+						26,
+						27,
+						28
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0
+					],
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						7
+					],
+					"name" : "CS301_Bootcamp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						46,
+						47
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "CS301-Bootcamp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						17,
+						48,
+						49
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "CS301-Bootcamp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						44,
+						45
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "CS301-Bootcamp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						40,
+						41,
+						42,
+						43
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "CS301-Bootcamp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						35,
+						36,
+						37,
+						38,
+						39
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "CS301-Bootcamp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8,
+						9
+					],
+					"name" : "Catch2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						18,
+						19
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "CS301-Bootcamp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						16,
+						20,
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "CS301-Bootcamp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "CS301-Bootcamp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "CS301-Bootcamp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						24,
+						25,
+						26,
+						27,
+						28
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_Ex_Comparing_Arrays::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_Ex_Comparing_Arrays-Release-842011f3b4734310bd46.json",
+					"name" : "Array_Ex_Comparing_Arrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_Ex_Declaring_and_Looping::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_Ex_Declaring_and_Looping-Release-70ca686e2ea8670ecc56.json",
+					"name" : "Array_Ex_Declaring_and_Looping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_Ex_Min_Max_Array::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_Ex_Min_Max_Array-Release-4fb2a8e93e47a8a6bdb7.json",
+					"name" : "Array_Ex_Min_Max_Array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_Ex_Outputting_Array::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_Ex_Outputting_Array-Release-5443f79747ed46be7974.json",
+					"name" : "Array_Ex_Outputting_Array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_Ex_Setting_Arrays_Equal::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_Ex_Setting_Arrays_Equal-Release-0e7fcb231ed948af0c9e.json",
+					"name" : "Array_Ex_Setting_Arrays_Equal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_Ex_Summing_and_Averaging::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_Ex_Summing_and_Averaging-Release-7b75d2acfb548883e549.json",
+					"name" : "Array_Ex_Summing_and_Averaging",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_Ex_multi_SampleCode::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_Ex_multi_SampleCode-Release-0c70ac8c44d5fc57d8e8.json",
+					"name" : "Array_Ex_multi_SampleCode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_Unit_Tests::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_Unit_Tests-Release-dd475fd2a33233bbba64.json",
+					"name" : "Array_Unit_Tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_multi_part_a::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_multi_part_a-Release-d7af02512eac62698ebe.json",
+					"name" : "Array_multi_part_a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_multi_part_b::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_multi_part_b-Release-344815e66318626cad2e.json",
+					"name" : "Array_multi_part_b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_multi_part_c::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_multi_part_c-Release-56efb228207daf956674.json",
+					"name" : "Array_multi_part_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_multi_part_d::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_multi_part_d-Release-c6564dd404b79bc9c1f3.json",
+					"name" : "Array_multi_part_d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_part1::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_part1-Release-a538b3016594b03923cb.json",
+					"name" : "Array_part1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_part2::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_part2-Release-1595cec34a61f0e6d0de.json",
+					"name" : "Array_part2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_part3::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_part3-Release-c68a566358df46c50258.json",
+					"name" : "Array_part3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Array_part4::@f7baa2da3096cb666b71",
+					"jsonFile" : "target-Array_part4-Release-055ea47eab1daafefc9c.json",
+					"name" : "Array_part4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "Basic_Deck_Tester::@0eebdb20ba582da22bc7",
+					"jsonFile" : "target-Basic_Deck_Tester-Release-909cad569ebfbae33bd0.json",
+					"name" : "Basic_Deck_Tester",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Basic_Input_Output::@f431bf9223da245c0637",
+					"jsonFile" : "target-Basic_Input_Output-Release-9a75be1a9329f8a9b190.json",
+					"name" : "Basic_Input_Output",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "Catch2::@fa92aa50e9bf5e1a7206",
+					"jsonFile" : "target-Catch2-Release-9a2b1817d774ff74d443.json",
+					"name" : "Catch2",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "Catch2WithMain::@fa92aa50e9bf5e1a7206",
+					"jsonFile" : "target-Catch2WithMain-Release-009d5b5d4318d110fac0.json",
+					"name" : "Catch2WithMain",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "Classes_Ex_Employee_Pay::@0eebdb20ba582da22bc7",
+					"jsonFile" : "target-Classes_Ex_Employee_Pay-Release-2f566cc0aaeb10ac32df.json",
+					"name" : "Classes_Ex_Employee_Pay",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "Classes_Tests::@0eebdb20ba582da22bc7",
+					"jsonFile" : "target-Classes_Tests-Release-1633f5c27206e844fbbf.json",
+					"name" : "Classes_Tests",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "File_Main::@815c9d7d13b3d86f1d3a",
+					"jsonFile" : "target-File_Main-Release-6b31470a6c4279444b88.json",
+					"name" : "File_Main",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "Functions_Ex_addTogether_GetYesNo::@861a77c90d765b0009ef",
+					"jsonFile" : "target-Functions_Ex_addTogether_GetYesNo-Release-6a0b603c79e1c00139ca.json",
+					"name" : "Functions_Ex_addTogether_GetYesNo",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LinkListClass::@32a20e5b19ce852490d6",
+					"jsonFile" : "target-LinkListClass-Release-bb9642119328796822f4.json",
+					"name" : "LinkListClass",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LinkList_Basic_Test::@32a20e5b19ce852490d6",
+					"jsonFile" : "target-LinkList_Basic_Test-Release-4f6def172637acb7f452.json",
+					"name" : "LinkList_Basic_Test",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LinkList_Examples::@32a20e5b19ce852490d6",
+					"jsonFile" : "target-LinkList_Examples-Release-56b4babddd066415a260.json",
+					"name" : "LinkList_Examples",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LinkList_Exercise_1_and_2::@32a20e5b19ce852490d6",
+					"jsonFile" : "target-LinkList_Exercise_1_and_2-Release-843b932023128188acbf.json",
+					"name" : "LinkList_Exercise_1_and_2",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LinkList_Tests::@32a20e5b19ce852490d6",
+					"jsonFile" : "target-LinkList_Tests-Release-3834cad6fbf33c2a0ef6.json",
+					"name" : "LinkList_Tests",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "Pointers_Ex_Basic_New_Usage::@fad348f56c49daba0bda",
+					"jsonFile" : "target-Pointers_Ex_Basic_New_Usage-Release-4938a272c25a0353f0a8.json",
+					"name" : "Pointers_Ex_Basic_New_Usage",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "Pointers_Ex_Basic_Usage::@fad348f56c49daba0bda",
+					"jsonFile" : "target-Pointers_Ex_Basic_Usage-Release-9f5ee04c96468d5382bf.json",
+					"name" : "Pointers_Ex_Basic_Usage",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "Pointers_Ex_Comparison_Issue::@fad348f56c49daba0bda",
+					"jsonFile" : "target-Pointers_Ex_Comparison_Issue-Release-6b1b3779c90bcedab76c.json",
+					"name" : "Pointers_Ex_Comparison_Issue",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "Pointers_Ex_Dynamic_Array_Basic_Usage::@fad348f56c49daba0bda",
+					"jsonFile" : "target-Pointers_Ex_Dynamic_Array_Basic_Usage-Release-799c2d25e44fdc14ca34.json",
+					"name" : "Pointers_Ex_Dynamic_Array_Basic_Usage",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "Pointers_Ex_Dynamic_Multidimensional_Basic_Usage::@fad348f56c49daba0bda",
+					"jsonFile" : "target-Pointers_Ex_Dynamic_Multidimensional_Basic_Usage-Release-a70e16f454f5f4580872.json",
+					"name" : "Pointers_Ex_Dynamic_Multidimensional_Basic_Usage",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "Pointers_Ex_Functions::@fad348f56c49daba0bda",
+					"jsonFile" : "target-Pointers_Ex_Functions-Release-0800fc2a89e5780cf7a9.json",
+					"name" : "Pointers_Ex_Functions",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Scope_Example_1::@f8ba5c76700d527ef8e2",
+					"jsonFile" : "target-Scope_Example_1-Release-65613f842e75a4dad904.json",
+					"name" : "Scope_Example_1",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Scope_Example_2::@f8ba5c76700d527ef8e2",
+					"jsonFile" : "target-Scope_Example_2-Release-2ff1a531520bddb178ca.json",
+					"name" : "Scope_Example_2",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Scope_Example_3::@f8ba5c76700d527ef8e2",
+					"jsonFile" : "target-Scope_Example_3-Release-2eaa5615fd30e3e6e527.json",
+					"name" : "Scope_Example_3",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Scope_Example_4::@f8ba5c76700d527ef8e2",
+					"jsonFile" : "target-Scope_Example_4-Release-e0ff8341f661a0da6a56.json",
+					"name" : "Scope_Example_4",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Scope_Example_5::@f8ba5c76700d527ef8e2",
+					"jsonFile" : "target-Scope_Example_5-Release-5354351ddd031c2e0a63.json",
+					"name" : "Scope_Example_5",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "String_Examples::@4d35d603dedcffb10125",
+					"jsonFile" : "target-String_Examples-Release-7dad72c718c3a4541086.json",
+					"name" : "String_Examples",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "String_Practice_Basic_Tests::@4d35d603dedcffb10125",
+					"jsonFile" : "target-String_Practice_Basic_Tests-Release-03e47534181b588d6767.json",
+					"name" : "String_Practice_Basic_Tests",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "String_Practice_Unit_Tests::@4d35d603dedcffb10125",
+					"jsonFile" : "target-String_Practice_Unit_Tests-Release-a9d324ccfc31263d8054.json",
+					"name" : "String_Practice_Unit_Tests",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "String_cstring_Examples::@4d35d603dedcffb10125",
+					"jsonFile" : "target-String_cstring_Examples-Release-8adee69b065cc97398ed.json",
+					"name" : "String_cstring_Examples",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Types_and_Casting_Debugger_Example::@065661c507ace9c2364d",
+					"jsonFile" : "target-Types_and_Casting_Debugger_Example-Release-fc897ec13246f7067269.json",
+					"name" : "Types_and_Casting_Debugger_Example",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Types_and_Casting_Examples::@065661c507ace9c2364d",
+					"jsonFile" : "target-Types_and_Casting_Examples-Release-f9c1ca1ccd7568a0a119.json",
+					"name" : "Types_and_Casting_Examples",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "_Hello_World_IDE_Test_::@73cf8c20a9b95e7b4862",
+					"jsonFile" : "target-_Hello_World_IDE_Test_-Release-6fcff86385ebfc95383d.json",
+					"name" : "_Hello_World_IDE_Test_",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "catch2_main_DO_NOT_RUN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catch2_main_DO_NOT_RUN-Release-fbf1fc36aa3f5781ae2d.json",
+					"name" : "catch2_main_DO_NOT_RUN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "cin_cout_Exercise_1::@f431bf9223da245c0637",
+					"jsonFile" : "target-cin_cout_Exercise_1-Release-0bed5dfc065b2594937c.json",
+					"name" : "cin_cout_Exercise_1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "cin_cout_Exercise_2::@f431bf9223da245c0637",
+					"jsonFile" : "target-cin_cout_Exercise_2-Release-1ee5673a60d9a519e55a.json",
+					"name" : "cin_cout_Exercise_2",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/build",
+		"source" : "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

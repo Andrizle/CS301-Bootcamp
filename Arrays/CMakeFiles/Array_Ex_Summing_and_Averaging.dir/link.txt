@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Array_Ex_Summing_and_Averaging.dir/Summing_and_Averaging.cpp.o -o Array_Ex_Summing_and_Averaging

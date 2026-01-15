@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcatch2_main_DO_NOT_RUN.a CMakeFiles/catch2_main_DO_NOT_RUN.dir/catch/catch_main.cpp.o
+/usr/bin/ranlib libcatch2_main_DO_NOT_RUN.a

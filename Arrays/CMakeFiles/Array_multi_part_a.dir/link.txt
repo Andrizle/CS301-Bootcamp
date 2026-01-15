@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Array_multi_part_a.dir/unit_tests/multi_part_a_main.cpp.o CMakeFiles/Array_multi_part_a.dir/Array_Practice.cpp.o -o Array_multi_part_a

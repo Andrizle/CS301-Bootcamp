@@ -1,0 +1,1052 @@
+[
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/catch2_main_DO_NOT_RUN.dir/catch/catch_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch/catch_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch/catch_main.cpp",
+  "output": "CMakeFiles/catch2_main_DO_NOT_RUN.dir/catch/catch_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_IDE Hello World Test",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch  -o CMakeFiles/_Hello_World_IDE_Test_.dir/Hello_World.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_IDE Hello World Test/Hello_World.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_IDE Hello World Test/Hello_World.cpp",
+  "output": "_IDE Hello World Test/CMakeFiles/_Hello_World_IDE_Test_.dir/Hello_World.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Basic_Input_Output.dir/basic_input_output.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline/basic_input_output.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline/basic_input_output.cpp",
+  "output": "cin cout getline/CMakeFiles/Basic_Input_Output.dir/basic_input_output.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/cin_cout_Exercise_1.dir/Exercise_1.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline/Exercise_1.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline/Exercise_1.cpp",
+  "output": "cin cout getline/CMakeFiles/cin_cout_Exercise_1.dir/Exercise_1.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/cin_cout_Exercise_2.dir/Exercise_2.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline/Exercise_2.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/cin cout getline/Exercise_2.cpp",
+  "output": "cin cout getline/CMakeFiles/cin_cout_Exercise_2.dir/Exercise_2.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Types and Casting",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Types_and_Casting_Examples.dir/types_and_casting.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Types and Casting/types_and_casting.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Types and Casting/types_and_casting.cpp",
+  "output": "Types and Casting/CMakeFiles/Types_and_Casting_Examples.dir/types_and_casting.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Types and Casting",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Types_and_Casting_Debugger_Example.dir/debugger_example.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Types and Casting/debugger_example.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Types and Casting/debugger_example.cpp",
+  "output": "Types and Casting/CMakeFiles/Types_and_Casting_Debugger_Example.dir/debugger_example.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/String_Examples.dir/string_examples.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/string_examples.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/string_examples.cpp",
+  "output": "Strings/CMakeFiles/String_Examples.dir/string_examples.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/String_cstring_Examples.dir/c_string_examples.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/c_string_examples.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/c_string_examples.cpp",
+  "output": "Strings/CMakeFiles/String_cstring_Examples.dir/c_string_examples.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/String_Practice_Basic_Tests.dir/String_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/String_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/String_Practice.cpp",
+  "output": "Strings/CMakeFiles/String_Practice_Basic_Tests.dir/String_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/String_Practice_Unit_Tests.dir/unit_tests/StringTests.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/unit_tests/StringTests.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/unit_tests/StringTests.cpp",
+  "output": "Strings/CMakeFiles/String_Practice_Unit_Tests.dir/unit_tests/StringTests.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/String_Practice_Unit_Tests.dir/String_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/String_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Strings/String_Practice.cpp",
+  "output": "Strings/CMakeFiles/String_Practice_Unit_Tests.dir/String_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Scope_Example_1.dir/scope_example_1.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_1.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_1.cpp",
+  "output": "Scope/CMakeFiles/Scope_Example_1.dir/scope_example_1.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Scope_Example_2.dir/scope_example_2.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_2.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_2.cpp",
+  "output": "Scope/CMakeFiles/Scope_Example_2.dir/scope_example_2.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Scope_Example_3.dir/scope_example_3.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_3.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_3.cpp",
+  "output": "Scope/CMakeFiles/Scope_Example_3.dir/scope_example_3.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Scope_Example_4.dir/scope_example_4.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_4.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_4.cpp",
+  "output": "Scope/CMakeFiles/Scope_Example_4.dir/scope_example_4.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Scope_Example_5.dir/scope_example_5.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_5.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Scope/scope_example_5.cpp",
+  "output": "Scope/CMakeFiles/Scope_Example_5.dir/scope_example_5.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Functions",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Functions_Ex_addTogether_GetYesNo.dir/Functions_Ex_addTogether_GetYesNo.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Functions/Functions_Ex_addTogether_GetYesNo.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Functions/Functions_Ex_addTogether_GetYesNo.cpp",
+  "output": "Functions/CMakeFiles/Functions_Ex_addTogether_GetYesNo.dir/Functions_Ex_addTogether_GetYesNo.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_Ex_Declaring_and_Looping.dir/Declaring_and_Looping.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Declaring_and_Looping.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Declaring_and_Looping.cpp",
+  "output": "Arrays/CMakeFiles/Array_Ex_Declaring_and_Looping.dir/Declaring_and_Looping.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_Ex_Outputting_Array.dir/Outputting_Array.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Outputting_Array.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Outputting_Array.cpp",
+  "output": "Arrays/CMakeFiles/Array_Ex_Outputting_Array.dir/Outputting_Array.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_Ex_Comparing_Arrays.dir/Comparing_Arrays.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Comparing_Arrays.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Comparing_Arrays.cpp",
+  "output": "Arrays/CMakeFiles/Array_Ex_Comparing_Arrays.dir/Comparing_Arrays.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_Ex_Setting_Arrays_Equal.dir/Setting_Arrays_Equal.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Setting_Arrays_Equal.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Setting_Arrays_Equal.cpp",
+  "output": "Arrays/CMakeFiles/Array_Ex_Setting_Arrays_Equal.dir/Setting_Arrays_Equal.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_Ex_Summing_and_Averaging.dir/Summing_and_Averaging.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Summing_and_Averaging.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Summing_and_Averaging.cpp",
+  "output": "Arrays/CMakeFiles/Array_Ex_Summing_and_Averaging.dir/Summing_and_Averaging.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_Ex_Min_Max_Array.dir/Min_Max_Array.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Min_Max_Array.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Min_Max_Array.cpp",
+  "output": "Arrays/CMakeFiles/Array_Ex_Min_Max_Array.dir/Min_Max_Array.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_Ex_multi_SampleCode.dir/multi_SampleCode.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/multi_SampleCode.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/multi_SampleCode.cpp",
+  "output": "Arrays/CMakeFiles/Array_Ex_multi_SampleCode.dir/multi_SampleCode.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_multi_part_a.dir/unit_tests/multi_part_a_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/multi_part_a_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/multi_part_a_main.cpp",
+  "output": "Arrays/CMakeFiles/Array_multi_part_a.dir/unit_tests/multi_part_a_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_multi_part_a.dir/Array_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "output": "Arrays/CMakeFiles/Array_multi_part_a.dir/Array_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_multi_part_b.dir/unit_tests/multi_part_b_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/multi_part_b_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/multi_part_b_main.cpp",
+  "output": "Arrays/CMakeFiles/Array_multi_part_b.dir/unit_tests/multi_part_b_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_multi_part_b.dir/Array_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "output": "Arrays/CMakeFiles/Array_multi_part_b.dir/Array_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_multi_part_c.dir/unit_tests/multi_part_c_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/multi_part_c_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/multi_part_c_main.cpp",
+  "output": "Arrays/CMakeFiles/Array_multi_part_c.dir/unit_tests/multi_part_c_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_multi_part_c.dir/Array_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "output": "Arrays/CMakeFiles/Array_multi_part_c.dir/Array_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_multi_part_d.dir/unit_tests/multi_part_d_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/multi_part_d_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/multi_part_d_main.cpp",
+  "output": "Arrays/CMakeFiles/Array_multi_part_d.dir/unit_tests/multi_part_d_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_multi_part_d.dir/Array_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "output": "Arrays/CMakeFiles/Array_multi_part_d.dir/Array_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_part1.dir/unit_tests/part1_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/part1_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/part1_main.cpp",
+  "output": "Arrays/CMakeFiles/Array_part1.dir/unit_tests/part1_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_part1.dir/Array_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "output": "Arrays/CMakeFiles/Array_part1.dir/Array_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_part2.dir/unit_tests/part2_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/part2_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/part2_main.cpp",
+  "output": "Arrays/CMakeFiles/Array_part2.dir/unit_tests/part2_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_part2.dir/Array_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "output": "Arrays/CMakeFiles/Array_part2.dir/Array_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_part3.dir/unit_tests/part3_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/part3_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/part3_main.cpp",
+  "output": "Arrays/CMakeFiles/Array_part3.dir/unit_tests/part3_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_part3.dir/Array_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "output": "Arrays/CMakeFiles/Array_part3.dir/Array_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_part4.dir/unit_tests/part4_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/part4_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/part4_main.cpp",
+  "output": "Arrays/CMakeFiles/Array_part4.dir/unit_tests/part4_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Array_part4.dir/Array_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "output": "Arrays/CMakeFiles/Array_part4.dir/Array_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -o CMakeFiles/Array_Unit_Tests.dir/__/catch/unit_test_utils.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch/unit_test_utils.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch/unit_test_utils.cpp",
+  "output": "Arrays/CMakeFiles/Array_Unit_Tests.dir/__/catch/unit_test_utils.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -o CMakeFiles/Array_Unit_Tests.dir/unit_tests/ArrayTests.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/ArrayTests.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/unit_tests/ArrayTests.cpp",
+  "output": "Arrays/CMakeFiles/Array_Unit_Tests.dir/unit_tests/ArrayTests.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -o CMakeFiles/Array_Unit_Tests.dir/Array_Practice.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Arrays/Array_Practice.cpp",
+  "output": "Arrays/CMakeFiles/Array_Unit_Tests.dir/Array_Practice.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/catch_chronometer.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/catch_chronometer.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_analyse.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/detail/catch_analyse.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/detail/catch_analyse.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_analyse.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/detail/catch_benchmark_function.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/detail/catch_benchmark_function.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_run_for_at_least.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/detail/catch_run_for_at_least.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/detail/catch_run_for_at_least.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_run_for_at_least.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_stats.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/detail/catch_stats.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/benchmark/detail/catch_stats.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_stats.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/generators/catch_generator_exception.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/generators/catch_generator_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/generators/catch_generators.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/generators/catch_generators.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/generators/catch_generators.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/generators/catch_generators_random.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/generators/catch_generators_random.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/generators/catch_generators_random.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators_random.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_automake.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_automake.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_automake.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_automake.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_common_base.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_common_base.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_common_base.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_common_base.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_compact.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_compact.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_compact.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_compact.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_console.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_console.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_console.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_console.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_cumulative_base.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_cumulative_base.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_cumulative_base.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_cumulative_base.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_event_listener.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_event_listener.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_event_listener.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_event_listener.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_helpers.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_helpers.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_helpers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_helpers.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_json.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_json.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_json.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_json.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_junit.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_junit.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_junit.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_junit.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_multi.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_multi.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_multi.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_multi.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_registrars.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_registrars.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_registrars.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_registrars.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_sonarqube.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_sonarqube.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_sonarqube.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_sonarqube.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_streaming_base.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_streaming_base.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_streaming_base.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_streaming_base.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_tap.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_tap.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_tap.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_tap.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_teamcity.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_teamcity.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_teamcity.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_teamcity.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_xml.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_xml.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/reporters/catch_reporter_xml.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_xml.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_capture.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_capture.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_capture.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_capture.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_config.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_config.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_config.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_config.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_exception.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_exception.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_exception.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_generatortracker.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_generatortracker.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_generatortracker.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_generatortracker.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_registry_hub.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_registry_hub.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_registry_hub.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_registry_hub.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter_factory.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter_factory.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter_factory.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter_factory.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_testcase.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_testcase.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_testcase.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_testcase.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_approx.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_approx.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_approx.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_approx.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_assertion_result.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_assertion_result.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_assertion_result.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_assertion_result.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_config.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_config.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_config.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_config.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_get_random_seed.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_get_random_seed.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_get_random_seed.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_get_random_seed.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_message.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_message.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_message.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_message.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_registry_hub.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_registry_hub.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_registry_hub.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_registry_hub.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_session.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_session.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_session.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_session.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_tag_alias_autoregistrar.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_tag_alias_autoregistrar.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_tag_alias_autoregistrar.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tag_alias_autoregistrar.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_test_case_info.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_test_case_info.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_test_case_info.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_case_info.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_test_spec.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_test_spec.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_test_spec.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_spec.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_timer.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_timer.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_timer.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_timer.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_tostring.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_tostring.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_tostring.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tostring.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_totals.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_totals.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_totals.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_totals.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_translate_exception.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_translate_exception.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_translate_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_translate_exception.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_version.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_version.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/catch_version.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_version.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_assertion_handler.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_assertion_handler.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_assertion_handler.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_assertion_handler.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_case_insensitive_comparisons.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_case_insensitive_comparisons.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_case_insensitive_comparisons.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_case_insensitive_comparisons.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_clara.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_clara.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_clara.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_clara.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_commandline.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_commandline.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_commandline.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_commandline.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_console_colour.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_console_colour.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_console_colour.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_console_colour.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_context.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_context.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_context.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_context.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_debug_console.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_debug_console.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_debug_console.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debug_console.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_debugger.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_debugger.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_decomposer.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_decomposer.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_decomposer.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_decomposer.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_enforce.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_enforce.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_enforce.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enforce.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_enum_values_registry.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_enum_values_registry.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_enum_values_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enum_values_registry.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_errno_guard.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_errno_guard.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_errno_guard.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_errno_guard.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_exception_translator_registry.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_exception_translator_registry.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_exception_translator_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_exception_translator_registry.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_fatal_condition_handler.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_fatal_condition_handler.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_fatal_condition_handler.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_fatal_condition_handler.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_floating_point_helpers.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_floating_point_helpers.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_floating_point_helpers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_floating_point_helpers.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_getenv.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_getenv.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_istream.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_istream.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_istream.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_istream.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_jsonwriter.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_jsonwriter.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_jsonwriter.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_jsonwriter.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_lazy_expr.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_lazy_expr.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_lazy_expr.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_lazy_expr.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_leak_detector.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_leak_detector.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_leak_detector.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_leak_detector.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_list.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_list.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_list.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_list.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_message_info.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_message_info.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_message_info.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_message_info.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_output_redirect.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_output_redirect.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_output_redirect.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_output_redirect.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_parse_numbers.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_parse_numbers.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_parse_numbers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_parse_numbers.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_polyfills.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_polyfills.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_polyfills.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_polyfills.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_random_number_generator.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_random_number_generator.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_random_number_generator.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_number_generator.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_random_seed_generation.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_random_seed_generation.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_random_seed_generation.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_seed_generation.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_registry.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_reporter_registry.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_reporter_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_registry.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_spec_parser.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_reporter_spec_parser.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_reporter_spec_parser.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_spec_parser.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_result_type.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_result_type.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_result_type.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_result_type.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_reusable_string_stream.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_reusable_string_stream.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_reusable_string_stream.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reusable_string_stream.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_run_context.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_run_context.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_run_context.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_run_context.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_section.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_section.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_section.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_section.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_singletons.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_singletons.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_singletons.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_singletons.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_source_line_info.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_source_line_info.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_source_line_info.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_source_line_info.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_startup_exception_registry.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_startup_exception_registry.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_startup_exception_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_startup_exception_registry.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_stdstreams.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_stdstreams.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_string_manip.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_string_manip.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_string_manip.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_string_manip.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_stringref.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_stringref.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_stringref.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stringref.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_tag_alias_registry.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_tag_alias_registry.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_tag_alias_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_tag_alias_registry.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_info_hasher.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_case_info_hasher.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_case_info_hasher.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_info_hasher.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_registry_impl.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_case_registry_impl.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_case_registry_impl.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_registry_impl.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_tracker.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_case_tracker.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_case_tracker.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_tracker.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_failure_exception.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_failure_exception.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_failure_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_failure_exception.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_registry.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_registry.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_registry.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_spec_parser.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_spec_parser.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_test_spec_parser.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_spec_parser.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_textflow.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_textflow.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_textflow.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_textflow.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_uncaught_exceptions.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_uncaught_exceptions.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_uncaught_exceptions.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_uncaught_exceptions.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_wildcard_pattern.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_wildcard_pattern.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_wildcard_pattern.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_wildcard_pattern.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_xmlwriter.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_xmlwriter.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_xmlwriter.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_xmlwriter.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_container_properties.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_container_properties.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_container_properties.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_container_properties.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_exception.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_exception.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_exception.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_floating_point.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_floating_point.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_floating_point.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_floating_point.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_predicate.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_predicate.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_predicate.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_predicate.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_quantifiers.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_quantifiers.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_quantifiers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_quantifiers.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_string.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_string.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_templated.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_templated.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/catch_matchers_templated.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_templated.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/internal/catch_matchers_impl.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/internal/catch_matchers_impl.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/matchers/internal/catch_matchers_impl.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/internal/catch_matchers_impl.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -ffile-prefix-map=/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/= -o CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_main.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/internal/catch_main.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Classes_Ex_Employee_Pay.dir/Classes_Ex_Employee_Pay.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/Classes_Ex_Employee_Pay.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/Classes_Ex_Employee_Pay.cpp",
+  "output": "Classes/CMakeFiles/Classes_Ex_Employee_Pay.dir/Classes_Ex_Employee_Pay.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -o CMakeFiles/Classes_Tests.dir/unit_tests/ClassTests.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/unit_tests/ClassTests.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/unit_tests/ClassTests.cpp",
+  "output": "Classes/CMakeFiles/Classes_Tests.dir/unit_tests/ClassTests.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -o CMakeFiles/Classes_Tests.dir/Deck.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/Deck.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/Deck.cpp",
+  "output": "Classes/CMakeFiles/Classes_Tests.dir/Deck.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Basic_Deck_Tester.dir/Basic_Deck_Tester.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/Basic_Deck_Tester.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/Basic_Deck_Tester.cpp",
+  "output": "Classes/CMakeFiles/Basic_Deck_Tester.dir/Basic_Deck_Tester.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Basic_Deck_Tester.dir/Deck.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/Deck.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Classes/Deck.cpp",
+  "output": "Classes/CMakeFiles/Basic_Deck_Tester.dir/Deck.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/File Reading and Writing",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/File_Main.dir/FileMain.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/File Reading and Writing/FileMain.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/File Reading and Writing/FileMain.cpp",
+  "output": "File Reading and Writing/CMakeFiles/File_Main.dir/FileMain.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/File Reading and Writing",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/File_Main.dir/FileExamples.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/File Reading and Writing/FileExamples.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/File Reading and Writing/FileExamples.cpp",
+  "output": "File Reading and Writing/CMakeFiles/File_Main.dir/FileExamples.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Pointers_Ex_Basic_Usage.dir/Pointers_Ex_basic_usage.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_basic_usage.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_basic_usage.cpp",
+  "output": "Pointers/CMakeFiles/Pointers_Ex_Basic_Usage.dir/Pointers_Ex_basic_usage.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Pointers_Ex_Basic_New_Usage.dir/Pointers_Ex_basic_new_usage.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_basic_new_usage.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_basic_new_usage.cpp",
+  "output": "Pointers/CMakeFiles/Pointers_Ex_Basic_New_Usage.dir/Pointers_Ex_basic_new_usage.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Pointers_Ex_Comparison_Issue.dir/Pointers_Ex_comparison_issue.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_comparison_issue.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_comparison_issue.cpp",
+  "output": "Pointers/CMakeFiles/Pointers_Ex_Comparison_Issue.dir/Pointers_Ex_comparison_issue.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Pointers_Ex_Functions.dir/Pointers_Ex_functions.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_functions.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_functions.cpp",
+  "output": "Pointers/CMakeFiles/Pointers_Ex_Functions.dir/Pointers_Ex_functions.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Pointers_Ex_Dynamic_Array_Basic_Usage.dir/Pointers_Ex_dynamic_array_basic_usage.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_dynamic_array_basic_usage.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_dynamic_array_basic_usage.cpp",
+  "output": "Pointers/CMakeFiles/Pointers_Ex_Dynamic_Array_Basic_Usage.dir/Pointers_Ex_dynamic_array_basic_usage.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/Pointers_Ex_Dynamic_Multidimensional_Basic_Usage.dir/Pointers_Ex_dynamic_multidimensional_basic_usage.cpp.o -c /Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_dynamic_multidimensional_basic_usage.cpp",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Pointers/Pointers_Ex_dynamic_multidimensional_basic_usage.cpp",
+  "output": "Pointers/CMakeFiles/Pointers_Ex_Dynamic_Multidimensional_Basic_Usage.dir/Pointers_Ex_dynamic_multidimensional_basic_usage.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/LinkList_Exercise_1_and_2.dir/Exercise_1_and_2_main.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/Exercise_1_and_2_main.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/Exercise_1_and_2_main.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkList_Exercise_1_and_2.dir/Exercise_1_and_2_main.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -o CMakeFiles/LinkList_Tests.dir/LinkListInt.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkListInt.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkListInt.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkList_Tests.dir/LinkListInt.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-src/src/catch2/.. -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/_deps/catch2-build/generated-includes -std=gnu++14 -o CMakeFiles/LinkList_Tests.dir/unit_tests/link_list_tests.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/unit_tests/link_list_tests.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/unit_tests/link_list_tests.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkList_Tests.dir/unit_tests/link_list_tests.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/LinkList_Basic_Test.dir/LinkList_Basic_Tests.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkList_Basic_Tests.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkList_Basic_Tests.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkList_Basic_Test.dir/LinkList_Basic_Tests.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/LinkList_Basic_Test.dir/LinkListInt.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkListInt.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkListInt.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkList_Basic_Test.dir/LinkListInt.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/LinkList_Examples.dir/link_list_examples.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/link_list_examples.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/link_list_examples.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkList_Examples.dir/link_list_examples.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/LinkList_Examples.dir/FindPriorNode.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/FindPriorNode.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/FindPriorNode.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkList_Examples.dir/FindPriorNode.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/LinkList_Examples.dir/DeleteNode.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/DeleteNode.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/DeleteNode.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkList_Examples.dir/DeleteNode.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/LinkList_Examples.dir/LinkList_Basic_Tests.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkList_Basic_Tests.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkList_Basic_Tests.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkList_Examples.dir/LinkList_Basic_Tests.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/LinkListClass.dir/LinkListInt.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkListInt.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkListInt.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkListClass.dir/LinkListInt.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists",
+  "command": "/usr/bin/c++  -I/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/catch -std=gnu++14 -o CMakeFiles/LinkListClass.dir/Exercise_3_main.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/Exercise_3_main.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/Exercise_3_main.cpp",
+  "output": "Linked Lists/CMakeFiles/LinkListClass.dir/Exercise_3_main.cpp.o"
+}
+]

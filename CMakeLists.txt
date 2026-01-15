@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 project(CS301_Bootcamp)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 set(CMAKE_CXX_STANDARD 14)
 
 include_directories(catch)
@@ -15,7 +16,7 @@ add_subdirectory("Types and Casting")
 add_subdirectory("Strings")
 add_subdirectory("Scope")
 add_subdirectory("Functions")
-add_subdirectory("Loops")
+# add_subdirectory("Loops")
 add_subdirectory("Arrays")
 add_subdirectory("Classes")
 add_subdirectory("File Reading and Writing")

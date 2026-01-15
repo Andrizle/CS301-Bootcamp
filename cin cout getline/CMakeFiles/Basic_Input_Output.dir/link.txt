@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Basic_Input_Output.dir/basic_input_output.cpp.o -o Basic_Input_Output

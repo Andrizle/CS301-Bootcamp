@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Array_Ex_Min_Max_Array.dir/Min_Max_Array.cpp.o -o Array_Ex_Min_Max_Array

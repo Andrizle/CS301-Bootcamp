@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Pointers_Ex_Basic_New_Usage.dir/Pointers_Ex_basic_new_usage.cpp.o -o Pointers_Ex_Basic_New_Usage
