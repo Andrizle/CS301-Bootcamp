@@ -29,5 +29,10 @@ add_executable(LinkList_Basic_Test
         LinkList_Basic_Tests.cpp LinkListInt.h LinkListInt.cpp )
 
 # Example Mains
+# <<<<<<< Updated upstream
 # add_executable(LinkList_Examples link_list_examples.cpp FindPriorNode.cpp FindPriorNode.h DeleteNode.cpp DeleteNode.h LinkList_Basic_Tests.cpp)
 # add_executable(LinkListClass LinkListInt.cpp LinkListInt.h Exercise_3_main.cpp)
+# =======
+# add_executable(LinkList_Examples link_list_examples.cpp FindPriorNode.cpp FindPriorNode.h DeleteNode.cpp DeleteNode.h LinkList_Basic_Tests.cpp)
+# add_executable(LinkListClass LinkListInt.cpp LinkListInt.h Exercise_3_main.cpp)
+# >>>>>>> Stashed changes
