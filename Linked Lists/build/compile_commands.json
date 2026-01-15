@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/LinkList_Basic_Test.dir/LinkList_Basic_Tests.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkList_Basic_Tests.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkList_Basic_Tests.cpp",
+  "output": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/build/CMakeFiles/LinkList_Basic_Test.dir/LinkList_Basic_Tests.cpp.o"
+},
+{
+  "directory": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/LinkList_Basic_Test.dir/LinkListInt.cpp.o -c \"/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkListInt.cpp\"",
+  "file": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/LinkListInt.cpp",
+  "output": "/Users/andrew/VSCode-workspace/CS301_Bootcamp_Topics/Linked Lists/build/CMakeFiles/LinkList_Basic_Test.dir/LinkListInt.cpp.o"
+}
+]
