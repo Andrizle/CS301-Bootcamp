@@ -1,8 +1,8 @@
 # ninja log v7
 2	599	1768512915406358001	CMakeFiles/LinkListClass.dir/LinkListInt.cpp.o	9b62cddde0ceb172
 3	638	1768512915406728090	CMakeFiles/LinkListClass.dir/Exercise_3_main.cpp.o	566b52b3ccc2c56a
-3	668	1768513276755424743	CMakeFiles/LinkList_Basic_Test.dir/LinkListInt.cpp.o	647f46bb6decb637
-2	697	1768513276755019529	CMakeFiles/LinkList_Basic_Test.dir/LinkList_Basic_Tests.cpp.o	9cece6f1ad4e9236
+4	535	1768514013189559200	CMakeFiles/LinkList_Basic_Test.dir/LinkListInt.cpp.o	75ba1981501ffa1f
+4	570	1768513678432670374	CMakeFiles/LinkList_Basic_Test.dir/LinkList_Basic_Tests.cpp.o	80b41c5f568ea86a
 63	264	1768513287167642091	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o	dd4d741ded828862
 61	310	1768513287165460383	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o	9b1d3f57d1b63288
 62	368	1768513287166210289	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o	95d9d766bd9c24e6
@@ -118,7 +118,6 @@
 17281	20577	1768513304384595472	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o	c3eb47ca33831b0c
 11	501	1768513325637148723	_deps/catch2-build/src/libCatch2d.a	2902259a4d00eb2f
 12	142	1768513349615805459	_deps/catch2-build/src/libCatch2Maind.a	b89a1a4f170c55d2
-5	530	1768513678433082713	CMakeFiles/LinkList_Basic_Test.dir/LinkListInt.cpp.o	75ba1981501ffa1f
-4	570	1768513678432670374	CMakeFiles/LinkList_Basic_Test.dir/LinkList_Basic_Tests.cpp.o	80b41c5f568ea86a
-4	535	1768514013189559200	CMakeFiles/LinkList_Basic_Test.dir/LinkListInt.cpp.o	75ba1981501ffa1f
 535	625	1768514013720733433	LinkList_Basic_Test	5bd3d6bdc6499c00
+11	604	1768514522663378473	CMakeFiles/LinkList_Basic_Test.dir/LinkListInt.cpp.o	75ba1981501ffa1f
+605	702	1768514523256993065	LinkList_Basic_Test	5bd3d6bdc6499c00
